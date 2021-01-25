@@ -5,7 +5,6 @@ import ListApartments from './ListApartments'
 
 
 const ListApartmentsContainer = (props) => {
-    console.log(props)
 
     const [pageMode, setPageMode] = useState(true)
 

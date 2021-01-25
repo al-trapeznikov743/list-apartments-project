@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/list-apartments-project/static/css/main.d2f3a189.chunk.css",
+    "main.js": "/list-apartments-project/static/js/main.fee10e7d.chunk.js",
+    "main.js.map": "/list-apartments-project/static/js/main.fee10e7d.chunk.js.map",
+    "runtime-main.js": "/list-apartments-project/static/js/runtime-main.9b60fabb.js",
+    "runtime-main.js.map": "/list-apartments-project/static/js/runtime-main.9b60fabb.js.map",
+    "static/js/2.b68fc221.chunk.js": "/list-apartments-project/static/js/2.b68fc221.chunk.js",
+    "static/js/2.b68fc221.chunk.js.map": "/list-apartments-project/static/js/2.b68fc221.chunk.js.map",
+    "static/js/3.957edacd.chunk.js": "/list-apartments-project/static/js/3.957edacd.chunk.js",
+    "static/js/3.957edacd.chunk.js.map": "/list-apartments-project/static/js/3.957edacd.chunk.js.map",
+    "index.html": "/list-apartments-project/index.html",
+    "static/css/main.d2f3a189.chunk.css.map": "/list-apartments-project/static/css/main.d2f3a189.chunk.css.map",
+    "static/js/2.b68fc221.chunk.js.LICENSE.txt": "/list-apartments-project/static/js/2.b68fc221.chunk.js.LICENSE.txt",
+    "static/media/apartments.cb0af314.jpg": "/list-apartments-project/static/media/apartments.cb0af314.jpg",
+    "static/media/solid.min.css": "/list-apartments-project/static/media/fa-solid-900.46fdbd2d.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b60fabb.js",
+    "static/js/2.b68fc221.chunk.js",
+    "static/css/main.d2f3a189.chunk.css",
+    "static/js/main.fee10e7d.chunk.js"
+  ]
+}
